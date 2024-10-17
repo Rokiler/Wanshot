@@ -8,7 +8,7 @@ class PurpleTank extends Bot {
 		const frm = -3;
 		const stopAndTurn = degreesToRadians(35);
 		const uTurn = degreesToRadians(160);
-		const updateTargetCount = -3;
+		const updateTargetCount = -1;
 		const shellSensitivity = 620;
 		const abortNonmove = false;
 		const turretRotationSpeed = degreesToRadians(3);
